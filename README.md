@@ -1,10 +1,9 @@
 # In-App-Review-API-Demo
 > Testing In-App Review API
 
-# Screenshots
-Screenshot-1 |
+Screenshots |
 ---|
-![Screenshot-1](./screenshot.jpg) |
+![Screenshots](./screenshot.jpeg) |
 
 # Set-up
 <b>To test the functionality:</b>    

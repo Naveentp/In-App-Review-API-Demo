@@ -7,7 +7,7 @@ Screenshots |
 
 # Set-up
 <b>To test the functionality:</b>    
-Goto app module's `build.gradle` file and chnage the `applicationId` to your play store `applicationId`.  
+Goto app module's `build.gradle` file and replace the applicationId `YOUR_PLAY_STORE_APP_ID` to your play store applicationId.  
   
 # Watchouts
 - Make sure you give applicationId of an app which is available in Play Store.

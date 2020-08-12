@@ -6,7 +6,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "com.naveentp.inappreviewdemo"
+        applicationId "YOUR_PLAY_STORE_APP_ID"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
